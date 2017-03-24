@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Tom did something on git
 Harris is also here
+=======
+Tom did something on git 
+nope
+>>>>>>> origin/master
