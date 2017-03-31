@@ -570,3 +570,642 @@ LogInit: Object subsystem initialized
 [2017.03.31-03.22.12:843][295]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Overworld_Sprite_212)
 [2017.03.31-03.23.24:257][576]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (floor)
 [2017.03.31-03.23.38:492][410]LogEditorViewport: Clicking Background
+[2017.03.31-03.24.10:492][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:493][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:494][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:494][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:495][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:496][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:496][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:497][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:498][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:498][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:499][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:499][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:500][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:500][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:501][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:501][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:502][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:503][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:503][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:504][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:504][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:505][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:505][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:506][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:506][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:507][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:507][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:508][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:508][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:509][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:509][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:510][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:510][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:511][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:511][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:512][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:512][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:513][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:513][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:514][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:514][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:515][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:515][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:516][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:516][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:517][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:517][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:518][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:518][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:519][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:519][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:520][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:520][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:521][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:521][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:522][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:522][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:523][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:523][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:524][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:524][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:524][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:525][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:525][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:526][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:526][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:527][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:527][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:528][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:528][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:529][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:529][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:530][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:530][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:531][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:531][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:531][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:532][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:532][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:533][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:533][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:534][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:534][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:535][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:535][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:536][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:536][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:536][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:537][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:537][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:538][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:538][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:539][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:539][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:540][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:540][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:541][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:541][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:541][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:542][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:542][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:543][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:543][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:543][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:544][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:544][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:545][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:545][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:546][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:546][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:546][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:547][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:547][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:548][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:548][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:548][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:549][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:549][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:550][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:550][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:551][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:551][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:551][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:552][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:552][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:553][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:553][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:553][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:554][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:554][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:555][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:555][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:556][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:556][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:556][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:557][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:557][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:558][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:558][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:558][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:559][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:559][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:559][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:560][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:560][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:561][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:561][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:561][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:562][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:562][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:563][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:563][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:563][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:564][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:564][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:564][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:565][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:565][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:565][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:566][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:566][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:567][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:567][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:567][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:568][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:568][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:568][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:569][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:569][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:569][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:570][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:570][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:570][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:571][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:571][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:571][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:572][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:572][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:572][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:573][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:573][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:573][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:574][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:574][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:574][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:575][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:575][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:575][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:576][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:576][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:576][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:577][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:577][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:577][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:578][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:578][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:578][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:579][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:579][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:579][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:580][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:580][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:580][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:580][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:581][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:581][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:581][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:582][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:582][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:582][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:583][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:583][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:583][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:584][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:584][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:584][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:584][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:585][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:585][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:585][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:586][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:586][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:586][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:586][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:587][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:587][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:587][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:588][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:588][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:588][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:588][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:589][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:589][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:589][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:590][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:590][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:590][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:590][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:591][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:591][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:591][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:591][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:592][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:592][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:592][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:592][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:593][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:593][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:593][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:593][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:594][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:594][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:594][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:594][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:595][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:595][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:595][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:595][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:596][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:596][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:596][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:596][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:596][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:597][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:597][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:597][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:597][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:598][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:598][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:598][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:598][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:598][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:599][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:599][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:599][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:599][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:599][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:600][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:600][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:600][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:600][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:600][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:601][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:601][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:601][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:601][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:601][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:602][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:602][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:602][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:602][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:602][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:603][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:604][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:604][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:604][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:604][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:604][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:605][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:606][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:606][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:606][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:606][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:606][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:607][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:607][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:607][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:607][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:607][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:608][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:609][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:610][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:610][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:610][310]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.03.31-03.24.10:620][310]LogEditorActor: Deleted 336 Actors (0.130 secs)
+[2017.03.31-03.24.12:995][453]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.24.13:005][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.24.13:005][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.24.13:005][453]PIE: New page: PIE session: Level01 (1 Apr 2017 12:24:13 am)
+[2017.03.31-03.24.13:006][453]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.24.13:007][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001742s)
+[2017.03.31-03.24.13:008][453]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.24.13:008][453]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2017.03.31-03.24.13:008][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002817s)
+[2017.03.31-03.24.13:019][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.24.13:030][453]LogInit: FAudioDevice initialized.
+[2017.03.31-03.24.13:058][453]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.24.13:098][453]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.54.13
+[2017.03.31-03.24.13:152][453]LogWorld: Bringing up level for play took: 0.091903
+[2017.03.31-03.24.13:153][453]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.24.13:153][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.24.13:153][453]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.24.13:153][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.24.13:154][453]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.212
+[2017.03.31-03.24.13:154][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.24.26:613][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.24.26:656][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.25.18:348][352]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (floor)
+[2017.03.31-03.25.33:564][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.31-03.25.33:635][256]LogSavePackage: Save=57.52ms
+[2017.03.31-03.25.33:635][256]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Level01E51B4AC54F739D6830786CA2DB392E31.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap'
+[2017.03.31-03.25.33:637][256]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap
+[2017.03.31-03.25.33:662][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01_BuiltData" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset" SILENT=true
+[2017.03.31-03.25.33:934][256]LogSavePackage: Save=269.21ms
+[2017.03.31-03.25.33:934][256]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Level01_BuiltData1EBE20554BF77A56C2364B900B51249E.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset'
+[2017.03.31-03.25.33:935][256]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset
+[2017.03.31-03.25.35:130][328]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.25.35:141][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.25.35:141][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.25.35:141][328]PIE: New page: PIE session: Level01 (1 Apr 2017 12:25:35 am)
+[2017.03.31-03.25.35:141][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.25.35:143][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001499s)
+[2017.03.31-03.25.35:143][328]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.25.35:143][328]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2017.03.31-03.25.35:143][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002186s)
+[2017.03.31-03.25.35:157][328]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.25.35:166][328]LogInit: FAudioDevice initialized.
+[2017.03.31-03.25.35:195][328]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.25.35:229][328]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.55.35
+[2017.03.31-03.25.35:283][328]LogWorld: Bringing up level for play took: 0.086441
+[2017.03.31-03.25.35:283][328]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.25.35:283][328]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.25.35:283][328]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.25.35:284][328]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.25.35:284][328]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.342
+[2017.03.31-03.25.35:284][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.26.04:861][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.26.04:916][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.26.47:846][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset" SILENT=true
+[2017.03.31-03.26.54:202][443]LogSavePackage: Save=6348.55ms
+[2017.03.31-03.26.54:202][443]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floorA7DFFC7E4F1E1ECFA1409B9B06EB5BC9.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset'
+[2017.03.31-03.26.54:205][443]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset
+[2017.03.31-03.27.00:772][833]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.27.00:783][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.00:783][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.27.00:783][833]PIE: New page: PIE session: Level01 (1 Apr 2017 12:27:00 am)
+[2017.03.31-03.27.00:783][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.27.00:785][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001658s)
+[2017.03.31-03.27.00:785][833]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.27.00:785][833]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2017.03.31-03.27.00:785][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002350s)
+[2017.03.31-03.27.00:814][833]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.27.00:823][833]LogInit: FAudioDevice initialized.
+[2017.03.31-03.27.00:855][833]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.27.00:916][833]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.57.00
+[2017.03.31-03.27.00:976][833]LogWorld: Bringing up level for play took: 0.119284
+[2017.03.31-03.27.00:977][833]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.27.00:977][833]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.27.00:977][833]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.27.00:977][833]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.27.00:978][833]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.036
+[2017.03.31-03.27.00:978][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.06:989][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.07:043][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.08:361][271]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.27.08:371][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.08:371][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.27.08:372][271]PIE: New page: PIE session: Level01 (1 Apr 2017 12:27:08 am)
+[2017.03.31-03.27.08:372][271]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.27.08:373][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001684s)
+[2017.03.31-03.27.08:374][271]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.27.08:374][271]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2017.03.31-03.27.08:374][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002476s)
+[2017.03.31-03.27.08:384][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.27.08:393][271]LogInit: FAudioDevice initialized.
+[2017.03.31-03.27.08:423][271]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.27.08:461][271]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.57.08
+[2017.03.31-03.27.08:519][271]LogWorld: Bringing up level for play took: 0.094720
+[2017.03.31-03.27.08:520][271]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.27.08:520][271]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.27.08:520][271]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.27.08:520][271]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.27.08:520][271]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.421
+[2017.03.31-03.27.08:521][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.33:198][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.33:256][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.27.46:604][548]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (floor)
+[2017.03.31-03.27.55:519][ 75]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (floor)
+[2017.03.31-03.28.19:502][513]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.28.19:513][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.28.19:513][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.28.19:513][513]PIE: New page: PIE session: Level01 (1 Apr 2017 12:28:19 am)
+[2017.03.31-03.28.19:513][513]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.28.19:515][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001716s)
+[2017.03.31-03.28.19:515][513]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.28.19:516][513]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2017.03.31-03.28.19:516][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002416s)
+[2017.03.31-03.28.19:528][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.28.19:538][513]LogInit: FAudioDevice initialized.
+[2017.03.31-03.28.19:572][513]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.28.19:615][513]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.58.19
+[2017.03.31-03.28.19:674][513]LogWorld: Bringing up level for play took: 0.100350
+[2017.03.31-03.28.19:674][513]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.28.19:674][513]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.28.19:674][513]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.28.19:675][513]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.28.19:675][513]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.734
+[2017.03.31-03.28.19:675][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.28.22:852][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.28.22:911][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.16:528][919]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.29.16:539][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.16:539][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.29.16:539][919]PIE: New page: PIE session: Level01 (1 Apr 2017 12:29:16 am)
+[2017.03.31-03.29.16:539][919]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.29.16:541][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001607s)
+[2017.03.31-03.29.16:541][919]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.29.16:541][919]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2017.03.31-03.29.16:541][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002333s)
+[2017.03.31-03.29.16:553][919]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.29.16:562][919]LogInit: FAudioDevice initialized.
+[2017.03.31-03.29.16:593][919]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.29.16:632][919]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.59.16
+[2017.03.31-03.29.16:691][919]LogWorld: Bringing up level for play took: 0.096805
+[2017.03.31-03.29.16:691][919]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.16:691][919]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.16:691][919]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.16:692][919]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.16:692][919]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.249
+[2017.03.31-03.29.16:692][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.23:071][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.23:126][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.32:747][877]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.29.32:758][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.32:758][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.29.32:758][877]PIE: New page: PIE session: Level01 (1 Apr 2017 12:29:32 am)
+[2017.03.31-03.29.32:758][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.29.32:760][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2017.03.31-03.29.32:760][877]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.29.32:761][877]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2017.03.31-03.29.32:761][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.003123s)
+[2017.03.31-03.29.32:771][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.29.32:781][877]LogInit: FAudioDevice initialized.
+[2017.03.31-03.29.32:816][877]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.29.32:852][877]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.59.32
+[2017.03.31-03.29.32:910][877]LogWorld: Bringing up level for play took: 0.093902
+[2017.03.31-03.29.32:911][877]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.32:911][877]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.32:911][877]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.32:912][877]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.32:912][877]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.03
+[2017.03.31-03.29.32:912][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.37:696][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.37:754][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.43:487][506]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.29.43:498][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.43:498][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.29.43:499][506]PIE: New page: PIE session: Level01 (1 Apr 2017 12:29:43 am)
+[2017.03.31-03.29.43:499][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.29.43:500][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2017.03.31-03.29.43:501][506]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.29.43:501][506]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2017.03.31-03.29.43:501][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002257s)
+[2017.03.31-03.29.43:510][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.29.43:519][506]LogInit: FAudioDevice initialized.
+[2017.03.31-03.29.43:552][506]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.29.43:588][506]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.59.43
+[2017.03.31-03.29.43:646][506]LogWorld: Bringing up level for play took: 0.092759
+[2017.03.31-03.29.43:646][506]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.43:646][506]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.43:646][506]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.43:647][506]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.43:647][506]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.705
+[2017.03.31-03.29.43:647][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.50:840][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.50:900][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.53:116][ 69]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.29.53:127][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.29.53:127][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.29.53:127][ 69]PIE: New page: PIE session: Level01 (1 Apr 2017 12:29:53 am)
+[2017.03.31-03.29.53:127][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.29.53:128][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001640s)
+[2017.03.31-03.29.53:129][ 69]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.29.53:129][ 69]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.03.31-03.29.53:129][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002410s)
+[2017.03.31-03.29.53:141][ 69]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.29.53:149][ 69]LogInit: FAudioDevice initialized.
+[2017.03.31-03.29.53:180][ 69]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.29.53:216][ 69]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.59.53
+[2017.03.31-03.29.53:274][ 69]LogWorld: Bringing up level for play took: 0.092815
+[2017.03.31-03.29.53:275][ 69]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.53:275][ 69]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.29.53:275][ 69]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.53:275][ 69]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.29.53:275][ 69]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.334
+[2017.03.31-03.29.53:276][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.01:070][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.01:124][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.10:257][ 83]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.30.10:267][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.10:267][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.30.10:267][ 83]PIE: New page: PIE session: Level01 (1 Apr 2017 12:30:10 am)
+[2017.03.31-03.30.10:267][ 83]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.30.10:269][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2017.03.31-03.30.10:270][ 83]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.30.10:270][ 83]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2017.03.31-03.30.10:270][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002382s)
+[2017.03.31-03.30.10:280][ 83]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.30.10:289][ 83]LogInit: FAudioDevice initialized.
+[2017.03.31-03.30.10:322][ 83]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.30.10:360][ 83]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-14.00.10
+[2017.03.31-03.30.10:418][ 83]LogWorld: Bringing up level for play took: 0.093887
+[2017.03.31-03.30.10:418][ 83]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.10:418][ 83]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.10:418][ 83]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.10:419][ 83]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.10:419][ 83]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.522
+[2017.03.31-03.30.10:419][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.25:447][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.25:505][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.31:254][328]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.30.31:265][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.31:265][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.30.31:265][328]PIE: New page: PIE session: Level01 (1 Apr 2017 12:30:31 am)
+[2017.03.31-03.30.31:265][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.30.31:267][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001524s)
+[2017.03.31-03.30.31:267][328]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.30.31:267][328]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2017.03.31-03.30.31:267][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002198s)
+[2017.03.31-03.30.31:278][328]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.30.31:287][328]LogInit: FAudioDevice initialized.
+[2017.03.31-03.30.31:320][328]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.30.31:357][328]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-14.00.31
+[2017.03.31-03.30.31:416][328]LogWorld: Bringing up level for play took: 0.095021
+[2017.03.31-03.30.31:417][328]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.31:417][328]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.31:417][328]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.31:417][328]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.31:418][328]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.476
+[2017.03.31-03.30.31:418][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.40:281][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.40:336][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.42:019][959]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.30.42:029][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.42:030][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.30.42:030][959]PIE: New page: PIE session: Level01 (1 Apr 2017 12:30:42 am)
+[2017.03.31-03.30.42:030][959]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.30.42:032][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001989s)
+[2017.03.31-03.30.42:032][959]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.30.42:033][959]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2017.03.31-03.30.42:033][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002921s)
+[2017.03.31-03.30.42:044][959]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.30.42:053][959]LogInit: FAudioDevice initialized.
+[2017.03.31-03.30.42:085][959]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.30.42:121][959]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-14.00.42
+[2017.03.31-03.30.42:179][959]LogWorld: Bringing up level for play took: 0.092920
+[2017.03.31-03.30.42:180][959]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.42:180][959]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.30.42:180][959]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.42:180][959]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.30.42:181][959]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.761
+[2017.03.31-03.30.42:181][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.49:658][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.30.49:718][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.31.05:218][336]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.31.05:228][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.31.05:228][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.31.05:228][336]PIE: New page: PIE session: Level01 (1 Apr 2017 12:31:05 am)
+[2017.03.31-03.31.05:229][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.31.05:230][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2017.03.31-03.31.05:231][336]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.31.05:231][336]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.03.31-03.31.05:231][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.002472s)
+[2017.03.31-03.31.05:240][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.31.05:249][336]LogInit: FAudioDevice initialized.
+[2017.03.31-03.31.05:279][336]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.31.05:316][336]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-14.01.05
+[2017.03.31-03.31.05:375][336]LogWorld: Bringing up level for play took: 0.095236
+[2017.03.31-03.31.05:376][336]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.31.05:376][336]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.31.05:376][336]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.31.05:377][336]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.31.05:377][336]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.435
+[2017.03.31-03.31.05:377][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.31.12:988][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.31.13:047][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.31.15:779][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
