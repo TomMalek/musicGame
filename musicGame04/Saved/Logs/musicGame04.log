@@ -423,3 +423,140 @@ LogInit: Object subsystem initialized
 [2017.03.31-02.45.17:201][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Autosaves/Game/harrisTest/floor_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2017.03.31-02.45.18:926][217]LogSavePackage: Save=1444.64ms
 [2017.03.31-02.45.18:926][217]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floor_Auto1014F52D049F001C9A7F8FA832D4849BF.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Autosaves/Game/harrisTest/floor_Auto1.uasset'
+[2017.03.31-02.45.18:983][217]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Autosaves/Game/harrisTest/floor_Auto1.uasset
+[2017.03.31-02.45.18:983][217]LogFileHelpers: Auto-saving content packages took 1.783
+[2017.03.31-02.59.37:995][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset" SILENT=true
+[2017.03.31-02.59.40:036][223]LogSavePackage: Save=1932.79ms
+[2017.03.31-02.59.40:036][223]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floor2F3839374FAE8EAFC93595B5495C63D3.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset'
+[2017.03.31-02.59.40:038][223]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset
+[2017.03.31-02.59.43:322][417]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-02.59.43:334][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-02.59.43:334][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-02.59.43:334][417]PIE: New page: PIE session: Level01 (31 Mar 2017 11:59:43 pm)
+[2017.03.31-02.59.43:334][417]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-02.59.43:347][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012535s)
+[2017.03.31-02.59.43:347][417]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-02.59.43:347][417]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2017.03.31-02.59.43:348][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013494s)
+[2017.03.31-02.59.43:566][417]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-02.59.43:578][417]LogInit: FAudioDevice initialized.
+[2017.03.31-02.59.43:607][417]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-02.59.43:650][417]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.29.43
+[2017.03.31-02.59.43:704][417]LogWorld: Bringing up level for play took: 0.096376
+[2017.03.31-02.59.43:705][417]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-02.59.43:705][417]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-02.59.43:705][417]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-02.59.43:706][417]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-02.59.43:706][417]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 0.764
+[2017.03.31-02.59.43:706][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.00.02:935][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.00.02:978][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.05.24:424][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset" SILENT=true
+[2017.03.31-03.05.26:418][835]LogSavePackage: Save=1708.02ms
+[2017.03.31-03.05.26:418][835]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floor4CAC694B491FE897C30E9BBDA16F556D.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset'
+[2017.03.31-03.05.26:420][835]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset
+[2017.03.31-03.05.31:927][161]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.05.31:938][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.05.31:938][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.05.31:938][161]PIE: New page: PIE session: Level01 (1 Apr 2017 12:05:31 am)
+[2017.03.31-03.05.31:939][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.05.31:951][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012697s)
+[2017.03.31-03.05.31:952][161]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.05.31:952][161]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2017.03.31-03.05.31:952][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013654s)
+[2017.03.31-03.05.31:962][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.05.31:973][161]LogInit: FAudioDevice initialized.
+[2017.03.31-03.05.32:006][161]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.05.32:051][161]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.35.32
+[2017.03.31-03.05.32:106][161]LogWorld: Bringing up level for play took: 0.098378
+[2017.03.31-03.05.32:107][161]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.05.32:107][161]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.05.32:107][161]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.05.32:108][161]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.05.32:108][161]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 1.166
+[2017.03.31-03.05.32:108][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.05.42:739][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.05.42:788][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.06:224][181]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.06.06:234][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.06:235][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.06.06:235][181]PIE: New page: PIE session: Level01 (1 Apr 2017 12:06:06 am)
+[2017.03.31-03.06.06:235][181]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.06.06:247][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012472s)
+[2017.03.31-03.06.06:248][181]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.06.06:248][181]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2017.03.31-03.06.06:248][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013185s)
+[2017.03.31-03.06.06:262][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.06.06:272][181]LogInit: FAudioDevice initialized.
+[2017.03.31-03.06.06:304][181]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.06.06:343][181]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.36.06
+[2017.03.31-03.06.06:397][181]LogWorld: Bringing up level for play took: 0.092190
+[2017.03.31-03.06.06:398][181]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.06.06:398][181]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.06.06:398][181]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.06.06:399][181]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.06.06:399][181]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 -0.543
+[2017.03.31-03.06.06:399][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.19:148][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.19:299][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.47:707][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.31-03.06.48:333][643]LogSavePackage: Save=342.41ms
+[2017.03.31-03.06.48:333][643]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Level01B03B9957420F8C802D47B1B6E237FF1E.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap'
+[2017.03.31-03.06.48:344][643]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap
+[2017.03.31-03.06.48:383][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01_BuiltData" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset" SILENT=true
+[2017.03.31-03.06.48:441][643]LogSavePackage: Save=1.53ms
+[2017.03.31-03.06.48:441][643]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/Level01_BuiltData014E1B544E8F51FFFC999FAEA963E980.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset'
+[2017.03.31-03.06.48:457][643]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01_BuiltData.uasset
+[2017.03.31-03.06.59:835][323]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.06.59:846][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.06.59:846][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.06.59:846][323]PIE: New page: PIE session: Level01 (1 Apr 2017 12:06:59 am)
+[2017.03.31-03.06.59:846][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.06.59:859][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012328s)
+[2017.03.31-03.06.59:859][323]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.06.59:859][323]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2017.03.31-03.06.59:859][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.013085s)
+[2017.03.31-03.06.59:872][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.06.59:881][323]LogInit: FAudioDevice initialized.
+[2017.03.31-03.06.59:912][323]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.06.59:952][323]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.36.59
+[2017.03.31-03.07.00:006][323]LogWorld: Bringing up level for play took: 0.092411
+[2017.03.31-03.07.00:007][323]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.07.00:007][323]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.07.00:007][323]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.07.00:007][323]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.07.00:008][323]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 1.066
+[2017.03.31-03.07.00:008][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.07.24:138][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.07.24:289][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.09.03:047][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset" SILENT=true
+[2017.03.31-03.09.22:348][739]LogSavePackage: Save=19299.83ms
+[2017.03.31-03.09.22:348][739]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floor639ACB324AF0B0649FA1448265A622FE.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset'
+[2017.03.31-03.09.22:351][739]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset
+[2017.03.31-03.09.45:520][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/harrisTest/floor" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset" SILENT=true
+[2017.03.31-03.10.05:834][ 49]LogSavePackage: Save=20312.11ms
+[2017.03.31-03.10.05:835][ 49]LogSavePackage: Moving 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Saved/floor2278AB07493C402FE6A7E0B05FE1F944.tmp' to 'D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset'
+[2017.03.31-03.10.05:837][ 49]LogSavePackage:Display: Finished SavePackage D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/harrisTest/floor.uasset
+[2017.03.31-03.14.13:851][924]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.31-03.14.13:862][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.14.13:862][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.31-03.14.13:862][924]PIE: New page: PIE session: Level01 (1 Apr 2017 12:14:13 am)
+[2017.03.31-03.14.13:862][924]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level01
+[2017.03.31-03.14.13:875][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013114s)
+[2017.03.31-03.14.13:876][924]LogAIModule: Creating AISystem for world Level01
+[2017.03.31-03.14.13:876][924]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2017.03.31-03.14.13:876][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level01.Level01 to /Game/UEDPIE_0_Level01.Level01 (0.014333s)
+[2017.03.31-03.14.13:985][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.31-03.14.13:995][924]LogInit: FAudioDevice initialized.
+[2017.03.31-03.14.14:023][924]LogLoad: Game class is 'BasicLevelMode_C'
+[2017.03.31-03.14.14:075][924]LogWorld: Bringing World /Game/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2017.03.31-13.44.14
+[2017.03.31-03.14.14:130][924]LogWorld: Bringing up level for play took: 0.105690
+[2017.03.31-03.14.14:131][924]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.14.14:131][924]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.31-03.14.14:131][924]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.14.14:132][924]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.31-03.14.14:132][924]PIE: Info Play in editor start time for /Game/UEDPIE_0_Level01 1.191
+[2017.03.31-03.14.14:133][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.14.33:163][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.14.33:332][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/Level01.Level01_C' with ClassGeneratedBy '/Game/Level01.Level01:PersistentLevel.Level01'
+[2017.03.31-03.16.51:263][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="D:/Users/Rupret/Documents/game concepts/musicGame/musicGame04/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
